@@ -1,2 +1,2 @@
-# GrafComp24B-1P
+# Grafica_Computacional
 Aquí se encuentran todos los trabajos de Graficación Computacional.
